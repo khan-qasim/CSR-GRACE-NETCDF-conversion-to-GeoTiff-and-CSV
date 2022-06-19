@@ -1,5 +1,5 @@
-# CSR-GRACE-NETCDF-conversion-to-GeoTiff-and-CSV
-Python code for conversion of CSR GRACE and GRAC Mason to GeoTIFF.
+# CSR GRACE NetCDF conversion toGeoTiff and CSV
+This python code can be used to convert CSR GRACE and GRACE Mason to GeoTIFF for visualizing in ArcGIS and to CSV for statistical analysis.
 
 # Citation
 If you use this code in your research, we ask you to cite 
